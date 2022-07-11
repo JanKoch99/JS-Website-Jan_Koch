@@ -1,0 +1,3 @@
+To start backend: nodemon index.js
+Database: XAMPP
+To start frontend: ng serve
